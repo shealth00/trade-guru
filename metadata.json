@@ -1,0 +1,6 @@
+{
+  "name": "E*TRADE AutoTrader",
+  "description": "Production-grade algorithmic trading platform with multi-timeframe Mean Reversion, dynamic risk management, circuit breakers, backtesting, and full trade auditability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

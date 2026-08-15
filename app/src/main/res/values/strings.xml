@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E*TRADE AutoTrader</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="chart">Live Chart</string>
+    <string name="strategy">Strategy</string>
+    <string name="orders">Orders &amp; Positions</string>
+    <string name="backtest">Backtest &amp; WFA</string>
+    <string name="audit">Audit Log</string>
+</resources>
