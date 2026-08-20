@@ -3,6 +3,6 @@
     <item
         android:width="66dp"
         android:height="66dp"
-        android:drawable="@drawable/ic_trading_bot_icon_1786810326840"
+        android:drawable="@drawable/ic_etrade_trader_logo_1786728699249"
         android:gravity="center" />
 </layer-list>
